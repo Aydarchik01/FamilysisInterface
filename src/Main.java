@@ -3,3 +3,7 @@ public class Main {
 
         }
     }
+
+        System.out.println("-_- я не виновата");
+    }
+}
