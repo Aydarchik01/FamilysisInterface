@@ -4,5 +4,6 @@ public class Main {
         System.out.println("-_- я не виновата");
         System.out.println("Я тоже не виноват");
         System.out.println("asdfghjkl");
+        System.out.println("i am Goat");
     }
 }
