@@ -1,11 +1,5 @@
 public class Main {
-    public static void main(String[] args) {
-        System.out.println("hjkl;");
-        System.out.println("-_- я не виновата");
-        System.out.println("Я тоже не виноват");
-        System.out.println("asdfghjkl");
-        System.out.println("fghjkl");
-        System.out.println("i am Goat");
-        System.out.println("Aydarrrrr");
+    public static void main(String[] args)  {
+
     }
 }
